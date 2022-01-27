@@ -1,0 +1,192 @@
+<info> app_timer: RTC: initialized.
+<info> app: Done with services_init()
+
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Fast advertising.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: sd_ble_gatts_hvx result: NRF_ERROR_INVALID_STATE. 
+
+<info> app: sd_ble_gatts_hvx result: NRF_ERROR_INVALID_STATE. 
+
+<info> app: sd_ble_gatts_hvx result: NRF_ERROR_INVALID_STATE. 
+
+<info> app: BLE event received. Event type = 16
+
+<info> app: Connected.
+<info> app: BLE event received. Event type = 33
+
+<info> app: BLE event received. Event type = 34
+
+<info> app: BLE event received. Event type = 35
+
+<info> app: BLE event received. Event type = 36
+
+<info> app: BLE event received. Event type = 85
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: BLE event received. Event type = 80
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: BLE event received. Event type = 18
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+

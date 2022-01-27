@@ -1,0 +1,83 @@
+<info> app_timer: RTC: initialized.
+<info> app: Done with services_init()
+
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Fast advertising.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: Transfer completed.
+<info> app: sd_ble_gatts_hvx result: NRF_ERROR_INVALID_STATE. 
+
+<info> app: sd_ble_gatts_hvx result: NRF_ERROR_INVALID_STATE. 
+
+<info> app: sd_ble_gatts_hvx result: NRF_ERROR_INVALID_STATE. 
+
+<info> app: BLE event received. Event type = 16
+
+<info> app: Connected.
+<info> app: Fast advertising.
+<info> app: BLE event received. Event type = 17
+
+<info> app: Disconnected.
+<info> app: BLE event received. Event type = 16
+
+<info> app: Connected.
+<info> app: Fast advertising.
+<info> app: BLE event received. Event type = 17
+
+<info> app: Disconnected.
+<info> app: BLE event received. Event type = 16
+
+<info> app: Connected.
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: sd_ble_gatts_hvx result: 3401. 
+
+<info> app: Fast advertising.
+<info> app: BLE event received. Event type = 17
+
+<info> app: Disconnected.
+<info> app: BLE event received. Event type = 16
+
+<info> app: Connected.
+<info> app: Fast advertising.
+<info> app: BLE event received. Event type = 17
+
+<info> app: Disconnected.
